@@ -1,0 +1,5382 @@
+{
+  "tracks": [
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Spomeň Si, Kto Si"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Juarez"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "Halfway Right"
+    },
+    {
+      "artist": "Renée Elise Goldsberry",
+      "album": "Hamilton",
+      "track": "Satisfied"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Mesic"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "First Love"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "If"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Zily"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "It's My Life"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Army of One"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "No Name - Cim to je?! - RMX by Randy"
+    },
+    {
+      "artist": "Valentine",
+      "album": "Rocky",
+      "track": "Take You Back (Street Corner Song From \"Rocky\") - From The \"Rocky\" Soundtrack"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Nuselský Horky"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Stay Young - Mustique Demo"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Den otců"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Pravdivy pribeh"
+    },
+    {
+      "artist": "DJMashup",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "I Want You to Know"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Napis Na Kovarne"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Si je perds"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "(No One Knows Me) Like the Piano"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Herečky"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Back In Black - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "Forty Screams"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Svatá Petra"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Whole Lotta Rosie - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Daydreamer"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Zizen"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "Turning Tables"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "Strange"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Sa"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Frau Vogelrauch"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Not Today"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Pačemu garíla"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "Life on the Nickel"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "Shadow of the Day"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Vodrhovačka"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Spac"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Piju ja piju rad"
+    },
+    {
+      "artist": "Foo Fighters",
+      "album": "Sonic Highways",
+      "track": "I Am A River"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "Invisible"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Hanojská"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Porcelánový Prasata"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Masky sádrový"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Kovárna III - 2000 Remastered Version"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Release"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "Ta fête"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Školka"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "Nobody Can Save Me"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "The World Was Wide Enough"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Underground jsme nestihli"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Malí sráči v nás"
+    },
+    {
+      "artist": "Phillipa Soo",
+      "album": "Hamilton",
+      "track": "Take a Break"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Puncochace"
+    },
+    {
+      "artist": "Anthony Ramos",
+      "album": "Hamilton",
+      "track": "Blow Us All Away"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Hypnotické Kruhy (feat. Dan Nekonečný)"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Melt My Heart to Stone"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Len tak stat"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Havran"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "All Around the World - Mustique Demo"
+    },
+    {
+      "artist": "Fandom",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Can't Hold Us Down"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Endorfiny"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "Bed Of Roses"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Tear"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Pijánovka"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "A Winter's Ball"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Díky Tobě"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "Always"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Let's Hurt Tonight"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "Into The Wild"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Dobrak od kosti - Single Version"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Dusa a ja"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Na sever"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Basama fousama"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Velmi inspirativni"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Zelená - 2000 Remastered Version"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Cold Shoulder"
+    },
+    {
+      "artist": "DJMashup",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Turn Down for What"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Hrábě"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "Your Obedient Servant"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "One Hundred"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Wonder"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "All My People / All Mankind"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Pilsner Urquell"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "O stasti"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "Hell Of A Life"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Kovárna I"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Dalí Divnej Sál"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Indie"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "My Love Will Never Die"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Melt My Heart to Stone (Live at Hotel Cafe)"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Boom Bap"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "En rêve"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "It Will Come Back"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "I've All I Need"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Desecration Smile"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Budapešť - 2000 Remastered Version"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "Talking to Myself"
+    },
+    {
+      "artist": "Original Broadway Cast of Hamilton",
+      "album": "Hamilton",
+      "track": "Who Lives, Who Dies, Who Tells Your Story"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Jednoduche dievca"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Joy"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "One and Only"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Blondýna"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Legendarna (feat. H16)"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Tsunami"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Kristinka iba spi"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Kalamity Jane"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Fade In-Out - Remastered"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "You Better Run"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "21st Century"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "Resurrection"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "The Hunter"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Stadium Arcadium"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "From Eden"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "The Party Song"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Secko dobre"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "The Girl in the Dirty Shirt - Mustique Demo"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "moules frites"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Bára"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "The Little Things Give You Away"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "Set Fire to the Rain"
+    },
+    {
+      "artist": "Fandom",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Trap Queen"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "All Around the World - Remastered"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Mas To Uz Za Sebou"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Pojd si lehnout"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "Ask Yourself"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Keby"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "V pekle sudy valej"
+    },
+    {
+      "artist": "Fiddy 9 Bullets",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Just a Lil Bit"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "tous les mêmes"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Rodinnej Tank"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "The Girl in the Dirty Shirt - Remastered"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Shots"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "Lovesong"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Kelti - 2000 Remastered Version"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Bláznovstvá (feat. Lucia Molnárová)"
+    },
+    {
+      "artist": "Jonathan Groff",
+      "album": "Hamilton",
+      "track": "You'll Be Back"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "Washington on Your Side"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Diky moc"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "My Same (Live at Hotel Cafe)"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Temeraf"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Warriors"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Už koluje fáma"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "J'ai deux amours"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "Come Back to Me"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Strojvudce - Single Version"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Stressed Out"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Dědeček hrdina"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Zamilovanou"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Aparát"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Angel Of Small Death & The Codeine Scene"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Comme ci, comme ça"
+    },
+    {
+      "artist": "Band of Horses",
+      "album": "Everything All The Time",
+      "track": "The Funeral"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Syn cloveka"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "La lessive"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Hometown Glory (Live at Hotel Cafe)"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "If We Shadows - Demo"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "La lune"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Ani jeden skurvy me nezastavi"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Strip My Mind"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "Midnight"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Déterre"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Turn It Again"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Sexy"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "quand c'est ?"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Shots - Broiler Remix"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Král Šumavy - 2000 Remastered Version"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Apolinář"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "Wall of Glass"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Killing Spree"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Maminka"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Takzvana stara"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "Paris canaille"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Ave Bráník"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Don't Drink And Drive - 2000 Remastered Version"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Spat ku dnom"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Free (feat. Delik)"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Kanibal Hanibal"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Moderni devce"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Jack Daniels 1 (Prolog)"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Going Nowhere - Remastered"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "No Name - Zily - Remix DJ Majo"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Torture Me"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "Kora Sings"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "The Summoning"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Kalhotky ze Lhotky"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "Go Robot"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Don't Go Away - Mustique Demo"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "It's Gettin' Better (Man!!) - Mustique Demo"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Láda"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "The Unknown"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Dodo a Dude"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "For Those About to Rock (We Salute You) - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Right As Rain"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "The Longest Wave"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "Low"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Kerka"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Vláček Piko"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Kids"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Gold"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "What's My Age Again?"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "Young"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Bored To Death"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Fairly Local"
+    },
+    {
+      "artist": "Phillipa Soo",
+      "album": "Hamilton",
+      "track": "Best of Wives and Best of Women"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Cert Na Koze Jel"
+    },
+    {
+      "artist": "Christopher Jackson",
+      "album": "Hamilton",
+      "track": "One Last Time"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Stand by Me - Remastered"
+    },
+    {
+      "artist": "Old Skool Rap Crew",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Space Jam"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Čarodej ze země koz"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Tam na Gvajáně"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Kovárna III - 2000 Remastered Version"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Bengoro"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "Helena Beat"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "To Be Alone"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "Dysentery Gary"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "My Big Mouth - Mustique Demo"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Dávám Ti Jeden Den"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Prusa"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Ententyky"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Spasitelé"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Posledny den"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Home Is Such A Lonely Place"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Zustal jsem sam"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "No Name - Prva - Mark'V Remix"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Black Ice - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "Take Me Inside"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Srdec Leva (feat. Majk Spirit)"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Stara Lou"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Teenage Satellites"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Óda Na Konopí"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Daydreamer (Live at Hotel Cafe)"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Vo co de"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "NbHD"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "If You Want Love"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "The Angelic Welcome of Mr. Jones"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Hrábě"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "Alexander Hamilton"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Ahoj Pt. 1"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Sen (feat. Nironic)"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Cynical"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "In The Woods Somewhere"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "Butkus - From The \"Rocky\" Soundtrack"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Vrchlabi"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Opilci V Dejinách"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "First Date - From The \"Rocky\" Soundtrack"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Goner"
+    },
+    {
+      "artist": "Fitspo",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Sirius"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "Gorgeous"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Ja a ty (feat. Celeste Buckingham)"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Nous debout"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Mexiko"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Ride"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Kořala"
+    },
+    {
+      "artist": "Fandom",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Crazy"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Všetci Sme Jedno (feat. Tomáš Botló)"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "Don't Stop (Color on the Walls)"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Prva"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Hladam pravdu"
+    },
+    {
+      "artist": "Peha",
+      "album": "Den medzi nedelou a pondelkom",
+      "track": "Spomal"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Zeny treba lubit"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Vakuum"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Dojak"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Wherever I Go"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Zena potrebuje cit"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "No Name - Dusa a ja - Kill The Guitar Sof Mix"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "1.Signalni"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Warm Tape"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "Sorry for Now"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Na, na, naaa"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Waiting Room"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "PozitÍvna Optika (feat. Kali)"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Ma ji motorovou"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "Sous le ciel de Paris"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "America"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Rabbit Hole"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "carmen"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "The Truth"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Ta Nase Rytmika - Live"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "All These Things"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "The Final Bell - From The \"Rocky\" Soundtrack"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "Aliens Exist"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Make You Feel My Love"
+    },
+    {
+      "artist": "DJMashup",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Blame"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "What If"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "Going The Distance - From \"Rocky\" Soundtrack / Remastered 2006"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "I Get By"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Let You Down"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Požehnání"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "Dark Fantasy"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "Born To Be My Baby"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Chasing Pavements"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Hviezdy"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "Detroit"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Kelti - 2000 Remastered Version"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Runaway - 2006 Remaster"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "Best Friend"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Podleham"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Balada O Spinavejch Fuseklich"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "San Diego"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Mas to uz za sebou"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "Speed of Sound"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "'63 - 2000 Remastered Version"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Boogie Ceskyho Sifare"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Jaro"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Kures Funk"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Zadarmo"
+    },
+    {
+      "artist": "The Eastcoast Rapfather",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Mo Money Mo Problems"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Animal Bar"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "track": "Stay Alive - Reprise"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Polaroid"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Aida"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Tohle je rock´n´roll, vy buzny!"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Tell Me Baby"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Konec Bulla Máchy - 2000 Remastered Version"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "I Hope, I Think, I Know - Mustique Demo"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Před půlnocí"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Stay Young - Remastered"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Mercedes Benz"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Homosexual"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "humain à l'eau"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Smutný Tambor"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Lie"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Fade In-Out - Mustique Demo"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "I'll Be Waiting"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Vecirek - Live"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Život je takovej"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Amazing Day"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "Leave Out All The Rest"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "Warrant"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "Wake"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Karolína"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Tired"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Svetlo (feat. Max)"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "avf"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Polarize"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Vedouci"
+    },
+    {
+      "artist": "The Punk Rock Movement",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Blitz-Krieg Bop"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Fyzicke osoby"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Tak Teda Pojd"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "1970"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "I Could Die for You"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "Sick Love"
+    },
+    {
+      "artist": "Cash Weeeezy",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Let It Rock"
+    },
+    {
+      "artist": "The Fray",
+      "album": "The Fray",
+      "track": "You Found Me"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "You're Special"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "Magic"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Potrebujem tvoju nenavist"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Vsechno Bude Jako Driv"
+    },
+    {
+      "artist": "Anthony Ramos",
+      "album": "Hamilton",
+      "track": "Schuyler Defeated"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "Bold"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Vinohradska c.p.90"
+    },
+    {
+      "artist": "Fandom",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Freedom"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "O melouny boj - 2000 Remastered Version"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Vino"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Dlouhej kour"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Chasing Pavements (Live at Hotel Cafe)"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "Ink"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Válka s loky"
+    },
+    {
+      "artist": "Christopher Jackson",
+      "album": "Hamilton",
+      "track": "History Has Its Eyes on You"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "Surrounded"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "True Love"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Život je takovej"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "What I've Done"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Los Angeles"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Human"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Plakáty"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Básník - 2000 Remastered Version"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Veselej Rokenrol - 2000 Remastered Version"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "I Bet My Life"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Čarodej ze země koz"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Vojaci"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "1-800-273-8255"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Panic a panna"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "Good Goodbye (feat. Pusha T and Stormzy)"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Outro"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "Houdini"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "Talk"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Dirty Deeds Done Dirt Cheap - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "Non-Stop"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Destiny"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Slečno, já se omlouvám se"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Nechci do ústavu - 2000 Remastered Version"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "Fanfare For Rocky - From \"Rocky\" Soundtrack / Remastered 2006"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Know"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Usmev pana Loyda"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Naděje"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Friction"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "merci"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "We Turn Red"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "Lost In The World"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Saman"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Narozeniny"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Da Da Da"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Stromy"
+    },
+    {
+      "artist": "Original Broadway Cast of Hamilton",
+      "album": "Hamilton",
+      "track": "The Adams Administration"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "T'attends quoi"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "Shape of You",
+      "track": "Shape of You"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Hip-Hop"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Zi a nechaj zit"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "California"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Stand by Me - Mustique Demo"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Minor Thing"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Brohemian Rhapsody"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Príbeh Lotosového Kvetu (feat. Samo Tomeček)"
+    },
+    {
+      "artist": "Leos Mares",
+      "album": "Tri slova",
+      "track": "Karibik"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "Up Against Me"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "Guns and Ships"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Charlie"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Drobna paralela"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "The Zephyr Song"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Vítězství"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Battle Cry"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Message Man"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Be Here Now - Remastered"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Stejne Jako Ja"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "Coming of Age"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Intro III"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "Blood on Me"
+    },
+    {
+      "artist": "Phillipa Soo",
+      "album": "Hamilton",
+      "track": "That Would Be Enough"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Laissez-moi - Bonus track"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Dederon"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Nechci do ústavu - 2000 Remastered Version"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "La part d'ombre - Bonus track"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Rock N Roll Train - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Arsonist's Lullabye"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Basnik"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Básník - 2000 Remastered Version"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "Tightrope"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "You Shook Me All Night Long - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "John Powell",
+      "album": "How to Train Your Dragon 2 (Music from the Motion Picture)",
+      "track": "Where No One Goes"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "bâtard"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Don't Go Away - Demo"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "C'mon Girl"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "The Jack - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Na srazu - 2000 Remastered Version"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "Rumour Has It"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Lidojedi - 2000 Remastered Version"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Highway to Hell - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Thief"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "Dream State"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "All Of The Lights (Interlude)"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "No Apologies"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Everybody"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Moja stvrt RMX"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Sovy v mazutu"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "V Pekle Sudy Válej"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "Square One"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Všední Den"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "Champs-Elysées"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "The Judge"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "Feasting on the Flowers"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Bylo-Nebylo"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Az nebudu"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "By the Way"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Go Satane Go"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Malá domů"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "This Ticonderoga"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "À Paris"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Dobrý časy"
+    },
+    {
+      "artist": "DJMashup",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Lean On"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Big Jack - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "O strašlivé vojně s turkem - 2000 Remastered Version"
+    },
+    {
+      "artist": "Karel Svoboda",
+      "album": "Noc na Karlstejne",
+      "track": "Do vezi"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Venda"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "Always in My Head"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Lift Me Up"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "Wanted Dead Or Alive"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Anziety"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Starej Bar"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Víte Jak To Bolí"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "AfricAryaN"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Vážené dámy"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "Oceans"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Colorado"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "track": "Meet Me Inside"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "Formidable"
+    },
+    {
+      "artist": "Jasmine Cephas-Jones",
+      "album": "Hamilton",
+      "track": "Say No to This"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "Paper Crown"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Bruce Willis"
+    },
+    {
+      "artist": "Lil Peep",
+      "album": "Come Over When You're Sober, Pt. 1",
+      "track": "U Said"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Teta"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Many Shades of Black"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "O strašlivé vojně s turkem - 2000 Remastered Version"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Bajkonur"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "In Pieces"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "When I'm in Need"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "X&Y"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Hump de Bump"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "Twisted Logic"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "O"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Hometown"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Birds"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "(I Got) The Fever - Remastered"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Vsude Tu Sou (Aneb O Hodnych, Ale Zlych Skretech)"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Lepší časy"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Vinarna U Valdstejna - Live At Lucerna Music Bar / 2010"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Gamine"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "Bleed It Out"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Léto"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "J'ai tant escamoté"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "D'You Know What I Mean? - Remastered"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "We Weren't Born To Follow"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Po půlnoci"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Let There Be Rock - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Ivan T. z Presova"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "Final Masquerade"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "She's Only 18"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "So Appalled"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Confess"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Hallelujah"
+    },
+    {
+      "artist": "DJMashup",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Paper Planes"
+    },
+    {
+      "artist": "The Punk Rock Movement",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "The Passenger"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Dani California"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "White Shadows"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Ona Říká"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Stand by Me - Live at Bonehead's Outtake"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "Pseudologia Fantastica"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Burlaci"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "EMI"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Centryfuga"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Flashbax - Remastered"
+    },
+    {
+      "artist": "Original Broadway Cast of Hamilton",
+      "album": "Hamilton",
+      "track": "Stay Alive"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Bara"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Warlocks"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Zelená - 2000 Remastered Version"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Snow (Hey Oh)"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "Alone In The Ring - From \"Rocky\" Soundtrack / Remastered 2006"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Venice Queen"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Si"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Shot Down in Flames - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "All Of The Lights"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Plesový ráno - 2000 Remastered Version"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Crazy for You"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Barbino?"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "My Big Mouth - Remastered"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Slovensky klin"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "J'aime Paris au mois de mai (feat. Charles Aznavour)"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Bicycle Song - 2006 Remaster"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Bic! (feat. Cigo)"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "track": "My Shot"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Som aky som"
+    },
+    {
+      "artist": "The Infamous West Coast",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "How We Do"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Fun (feat. Tove Lo)"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Oh My My"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Make You Feel My Love (Live at Hotel Cafe)"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Crazy for You (Live at Hotel Cafe)"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Jackie And Wilson"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Pohoda"
+    },
+    {
+      "artist": "The Illest Rapper",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Victory"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "Papaoutai"
+    },
+    {
+      "artist": "Anthony Ramos",
+      "album": "Hamilton",
+      "track": "The Story of Tonight - Reprise"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "O melouny boj - 2000 Remastered Version"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Pohadka"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Green Lights"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "No Future"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Zizen"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Pijanovka - feat. Horkyze Slize"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Striptérka Anna"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "Are You What You Want to Be?"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Magdalena"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Slovni pyrotechnika"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Stiznost"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Death of a Martian"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "My Big Mouth - Live at Knebworth Park"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "Runaway"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Hlavolam"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Tak teda pojd"
+    },
+    {
+      "artist": "Phillipa Soo",
+      "album": "Hamilton",
+      "track": "Helpless"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "Reflections - From The \"Rocky\" Soundtrack"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Vecnost"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Mozna"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Nadrazi"
+    },
+    {
+      "artist": "Fabolous",
+      "album": "There Is No Competition 2: The Grieving Music Mixtape",
+      "track": "You Be Killin Em"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "Rocky's Reward - From \"Rocky\" Soundtrack / Remastered 2006"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Choke"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Malej kluk"
+    },
+    {
+      "artist": "The Illest Rapper",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Show Me What You Got"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "ave cesaria"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Best for Last"
+    },
+    {
+      "artist": "Christopher Jackson",
+      "album": "Hamilton",
+      "track": "Cabinet Battle #2"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Whisky Do Mozku"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Piju ja, piju rad"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "Encore"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "Livin' On A Prayer"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Bunda z koženky"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Laska & Hvezdy"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "Nevermind"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Už koluje fáma"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "Going Away To College"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Ma Ji Motorovou 2001 Ccm"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "I'll Be There For You"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "Keys to the Kingdom"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Dole v dole"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "track": "Right Hand Man"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Setting Sun - Live Radio Broadcast"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "Fix You"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Pockam si na zazrak"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Nech Sa Darí"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Motto"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Lada"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Stačí Mi To Nejlepší"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Alkohol je"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Jack Daniels 2 (Epilog)"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "Chinatown"
+    },
+    {
+      "artist": "Thayne Jasperson",
+      "album": "Hamilton",
+      "track": "Farmer Refuted"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "You Give Love A Bad Name"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "Who Will Survive In America"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Work Song"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Everglow"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "In Between"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Zloděj Roku"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Univerzum Lovemaker"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "He Won't Go"
+    },
+    {
+      "artist": "The Eastcoast Rapfather",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Big Poppa"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "Battle Symphony"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "Sharp Edges"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "Goats in Trees"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Zdanie"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Prdel Vody"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Dabel a syn"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Storm in a Teacup"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "All for Nothing (feat. Page Hamilton)"
+    },
+    {
+      "artist": "Jonathan Groff",
+      "album": "Hamilton",
+      "track": "I Know Him"
+    },
+    {
+      "artist": "Christopher Jackson",
+      "album": "Hamilton",
+      "track": "Cabinet Battle #1"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Utrejch"
+    },
+    {
+      "artist": "Old Skool Rap Crew",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "We Thuggin'"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "You Want It All"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Untitled - Demo"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "In A Week"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "The Hardest Part"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "Valentine's Day"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Monster"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Filmy"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "track": "We Know"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Svatozář - 2000 Remastered Version"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Wet Sand"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "Adam's Song"
+    },
+    {
+      "artist": "Anthony Ramos",
+      "album": "Hamilton",
+      "track": "Ten Duel Commandments"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Hymn for the Weekend"
+    },
+    {
+      "artist": "The Illest Rapper",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Street Dreams"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Nenormalna"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Throw Away Your Television"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Jejejejeje"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Blues Folsomské Veznice"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "Wastelands"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "War Machine - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Appât de velours"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "All Directions"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Dederon"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "Aquatic"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "Call It What You Want"
+    },
+    {
+      "artist": "Daveed Diggs",
+      "album": "Hamilton",
+      "track": "The Election of 1800"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "My Same"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "Who Says You Can't Go Home"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "Miss You"
+    },
+    {
+      "artist": "No Name",
+      "album": "20 let v siti",
+      "track": "Na, na, naaa"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Saman"
+    },
+    {
+      "artist": "The Infamous West Coast",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Hip Hop Hooray"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Hladam"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "My Sister Lover - Mustique Demo"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "No tak ahoj"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Dobry rano"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Laskopad"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Go satane go"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Future Looks Good"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Moderní Devce"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Plesový ráno - 2000 Remastered Version"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "Dumpweed"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Ventilek"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Opilci v dejinach"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Lekna"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "Pumped Up Kicks"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "No Name - Hladam - DJ Carlo - Remix Radio edit"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Nausnica"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Vltavo"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Radostne!"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Buldozerem"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "All The Small Things"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "A Head Full of Dreams"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Vojáci"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "My Sister Lover - Remastered"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Hrac"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Battle Symphony",
+      "track": "Battle Symphony"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Ondra"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Ponukam ti seba"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Ta naše rytmika"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "In These Arms"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "It Comes Back To You"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "Wait for It"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "Wendy Clear"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Bajkonur"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Jak je to dojemne II"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Pijánovka"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Šetři se chlapče"
+    },
+    {
+      "artist": "Renée Elise Goldsberry",
+      "album": "Hamilton",
+      "track": "It's Quiet Uptown"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Dog Eat Dog - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Raketovej Pes"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Dream"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Slow Cheetah"
+    },
+    {
+      "artist": "Old Skool Rap Crew",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Lean Back"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "The Getaway"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "So Much I"
+    },
+    {
+      "artist": "Original Broadway Cast of Hamilton",
+      "album": "Hamilton",
+      "track": "Yorktown (The World Turned Upside Down)"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "Drawbar (feat. Tom Morello)"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Nebud traged (feat. Orion)"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Básníci Z Kovárny"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "track": "The Story of Tonight"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Cinani"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Blondýna"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Lane Boy"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Zpátky Do Školy"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "Other People"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Fingertips"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Dreams"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Oheň a Voda"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Na srazu - 2000 Remastered Version"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "Muddy Waters"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Le retour du soleil - Bonus track"
+    },
+    {
+      "artist": "Damien Rice",
+      "album": "9",
+      "track": "9 Crimes"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Výzva"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Hells Bells - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Dneska hrajou nasi"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Right as Rain (Live at Hotel Cafe)"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "The Fall"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Tear in My Heart"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Better"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "Paris, l'après-midi"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Remember This"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Can't Stop"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Radio Bubenec - Live At Lucerna Music Bar / 2012"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Don't Drink And Drive - 2000 Remastered Version"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "Waste"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "Dear Theodosia"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Sovy v mazutu"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "Anthem"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "Another's Arms"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "She's Out Of Her Mind"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "Lost On You"
+    },
+    {
+      "artist": "Chiddy Bang",
+      "album": "The Preview",
+      "track": "Opposite of Adults"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Tenkrát"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Milion dolaru"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "D'You Know What I Mean? - Mustique Demo"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "Greedy Soul"
+    },
+    {
+      "artist": "Fitspo",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Remember the Name"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Up&Up"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Cherry Wine - Live"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "Dans mon Paris - Version swing manouche"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Sedated"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Alkohol je"
+    },
+    {
+      "artist": "Jonathan Groff",
+      "album": "Hamilton",
+      "track": "What Comes Next?"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Jaxe"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Starej bar"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "Blame Game"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Tvoja Sloboda (feat. Tomi Popovič)"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Podzim"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "A Beginner's Guide to Destroying the Moon"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Summer"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Run"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Hey"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Foreigner's God"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Pumpa"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Mám Obe Ruce Levý"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Second Chances"
+    },
+    {
+      "artist": "Fiddy 9 Bullets",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Hustler's Ambition"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Nie alebo ano"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Hoja hoj"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Den sudu"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Ztráta Imunity - 2000 Remastered Version"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "Incomplete Kisses"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Tramvaj"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "All Around the World (Reprise) - Remastered"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Life"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Venda"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Montér údržbář"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "On Mercury"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Je rentre"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "War"
+    },
+    {
+      "artist": "Daveed Diggs",
+      "album": "Hamilton",
+      "track": "What'd I Miss"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Hvezdy nad hlavou"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Satna"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Thunderstruck - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Vsetkospoluhra (feat. Supa)"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Tabacek"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "We Don't Believe What's on TV"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Hell Ain't a Bad Place to Be - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Lepší časy"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "A Message"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Mos Definitely"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Dream"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Snílek"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Muj svet"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "La vie en rose"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Left Alone"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Outcast"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "The Fame - Remastered"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "Given Up"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "Have A Nice Day"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "Don't You Remember"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "FM Lomoz"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "Under"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Vstaň, leť, hned teď!"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Slibem Nezarmoutis"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Readymade"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "La complainte de la butte"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "Mutt"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Dá Sa Zmeniť (feat. Paul Project)"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Ink Blot"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Bruce Willis"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Kapela"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "Slowly"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Kocovina"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Neřeš To"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Colorado"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "10 Feet Down"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Kovárna - Live"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Especially in Michigan"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Hard to Concentrate"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Mexiko Remix"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Oda na konopi"
+    },
+    {
+      "artist": "Point North",
+      "album": "Hammer",
+      "track": "Hammer"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Like Real People Do"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "Heavy (feat. Kiiara)"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "Plastic 100°C"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Razny basnik"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Colour Spectrum"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Novy clovek"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Hopeless Opus"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "What Shouldn't I Be?"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Don't Forget Me"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Magic Pie - Remastered"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "The Only Thing That Matters"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Preco"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Deset černejch piv"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Who We Are"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "Devil In A New Dress"
+    },
+    {
+      "artist": "Leslie Odom Jr.",
+      "album": "Hamilton",
+      "track": "The Room Where It Happens"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Empatia (feat. Nicole)"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Help! - Live in LA"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "We Believe"
+    },
+    {
+      "artist": "Renée Elise Goldsberry",
+      "album": "Hamilton",
+      "track": "The Schuyler Sisters"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "T.N.T. - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Laskonky a kremrole"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Laska a jina nasili"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy",
+      "track": "Monster"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "Make You Feel Better"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "This Is the Place"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "I Love Paris / J'aime Paris (feat. Nikki Yanofsky)"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "Paris sera toujours Paris"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Sober"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Trava"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Adventure of a Lifetime"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Kreten"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Motýli",
+      "track": "Motýli"
+    },
+    {
+      "artist": "Doc. Drizzle",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Best I Ever Had"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Dakujem ze si"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "Reverse Faults"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Tanecni"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "The Fool You Need"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Vtipné"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "That's It, I Quit, I'm Movin' On (Live at Hotel Cafe)"
+    },
+    {
+      "artist": "Hollywood Undead",
+      "album": "Day Of The Dead",
+      "track": "I'll Be There"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Ty a tvoja sestra"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Motýli"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Výroba"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Brouk Pytlik"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "Lay Your Hands On Me - Edit"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "The Fame - Mustique Demo"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Oublie Loulou"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "On ira"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "Bad Medicine"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State",
+      "track": "Don't Leave Me"
+    },
+    {
+      "artist": "Fitspo",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Stop and Stare"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Ber"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Mravenci"
+    },
+    {
+      "artist": "Fitspo",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Take Me to Church"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Spriaznená"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light",
+      "track": "One More Light"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "Rolling in the Deep"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "My Life"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Montér údržbář"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "Until It's Gone"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds",
+      "track": "Labor"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory Live Around the World",
+      "track": "In the End - Live from Melbourne, 2010"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Devky ty to znaj"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "Doesn't Have to Be That Way"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Nekonečný Príbeh (feat. Dominika Mirgová)"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Aj ta kuna"
+    },
+    {
+      "artist": "The Infamous West Coast",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Bow Down"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Corrida"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Doubt"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "skit Miro Stylo"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Na Sever"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "A Line in the Sand"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "Til Kingdom Come"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "Death Valley"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Moc toho nevim"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Toujours"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "Philadelphia Morning - From The \"Rocky\" Soundtrack"
+    },
+    {
+      "artist": "Aerosmith",
+      "album": "Aerosmith",
+      "track": "Mama Kin"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Fanynka"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Born"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Universally Speaking"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Trip Inside (Be Here Now) - Mustique Demo"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Bum Bum Tequilla"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Good Vibration (feat. Madskill)"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y",
+      "track": "Swallowed in the Sea"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Skoncili jsme"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Pumpa"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "Mark the Graves"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel",
+      "track": "Fire Escape"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Proč Je Zlá"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Pocitaj so mnou"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Porcelanovy prasata"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Modlitba pro partu"
+    },
+    {
+      "artist": "Adele",
+      "album": "19",
+      "track": "Hometown Glory"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "Take It All"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "It's Gettin' Better (Man!!) - Remastered"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "A.I."
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "Goodbye Angels"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories",
+      "track": "A Sky Full of Stars"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Kings of the Weekend"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Duse z gumy"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Kdo vi jestli"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "No More Sorrow"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Toy Dollz"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami",
+      "track": "Země draků"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "D'You Know What I Mean? - NG's 2016 Rethink"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Králíci"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "I’m So Sorry"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "My ještě nejsme starý"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Cigansky sen"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Jedine co mam"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Black SpiderMan"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Kazdy rano"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Kutil"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "LSD"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Ensemble"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée",
+      "track": "sommeil"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "Guilty All the Same (feat. Rakim)"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "3 A.M."
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Cette journée"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "Timmy's Prayer"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits",
+      "track": "What Do You Got?"
+    },
+    {
+      "artist": "blink-182",
+      "album": "California",
+      "track": "Built This Pool"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "I Hope, I Think, I Know - Remastered"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek",
+      "track": "Ať Tu Není Ticho"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "Marines' Hymn/Yankee Doodle - From The \"Rocky\" Soundtrack"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Kdyby Zensky Nebyly"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Neni unik"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Tajnej hajnej"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "track": "Aaron Burr, Sir"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Naradi na dobrou naladu"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Pohoda"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Shoot to Thrill - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky",
+      "track": "You Take My Heart Away - From The \"Rocky\" Soundtrack"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "La romance de Paris (feat. Thomas Dutronc)"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors",
+      "track": "Trouble"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Lázničky"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Zkomoliny"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "skit Soi de"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Svatozář - 2000 Remastered Version"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris",
+      "track": "La parisienne"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "Dreams of a Samurai"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Plechový Ježíš"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "I Never Wanna Be Like You"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Jak je to dojemne I"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Kovárna I"
+    },
+    {
+      "artist": "Original Broadway Cast of Hamilton",
+      "album": "Hamilton",
+      "track": "The Reynolds Pamphlet"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "track": "Hurricane"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Cas minuly"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams",
+      "track": "Kaleidoscope"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Do Kotle Na Fotbal"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Compy"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "For What It's Worth"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Raci v praci"
+    },
+    {
+      "artist": "Fitspo",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "All the Right Moves"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Take Me To Church"
+    },
+    {
+      "artist": "Sum 41",
+      "album": "Underclass Hero",
+      "track": "With Me"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Válka s loky"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were",
+      "track": "Universal Gleam"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "No Name - Dakujem, ze si - B3 Remix"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Africký pivo"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "track": "Hands Held High"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro",
+      "track": "Mama"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)",
+      "track": "Belle"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield",
+      "track": "Narozeniny"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Čtvrtá sestra"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Cabron"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party",
+      "track": "Rebellion (feat. Daron Malakian)"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Ztráta imunity - 1996 Remastered Version"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "track": "Dark Necessities"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Aida"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Adamiti v Londýně"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Don't Go Away - Remastered"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Cim to je"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches",
+      "track": "I Would Do Anything for You"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "'63 - 2000 Remastered Version"
+    },
+    {
+      "artist": "Fitspo",
+      "album": "Basketball 2K16: Music Inspired from the Game",
+      "track": "Radioactive"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection",
+      "track": "Lidojedi - 2000 Remastered Version"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Slova do tmy"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Bez tiena"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Král Šumavy - 2000 Remastered Version"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered",
+      "track": "Devky Ty To Znaj"
+    },
+    {
+      "artist": "Phillipa Soo",
+      "album": "Hamilton",
+      "track": "Burn"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Babylon hori (feat. Suvereno)"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My",
+      "track": "Heaven"
+    },
+    {
+      "artist": "Adele",
+      "album": "21",
+      "track": "Someone Like You"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!",
+      "track": "Bohém zapomenutý dítě"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium",
+      "track": "She Looks to Me"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Mala dama"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Kuze lina od Kolina"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Modlitba pro partu"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert",
+      "track": "Vsechno bude jako driv"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti",
+      "track": "Klara"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody",
+      "track": "Take It Back"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci",
+      "track": "Honolulu"
+    },
+    {
+      "artist": "Aerosmith",
+      "album": "Big Ones",
+      "track": "Love In An Elevator - Single Version"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole",
+      "track": "Svatozar"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface",
+      "track": "Heavydirtysoul"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Starosta"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista",
+      "track": "Brána 2012 (feat. Revolta)"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek",
+      "track": "Jazvy"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection",
+      "track": "Budapešť - 2000 Remastered Version"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Someone New"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way",
+      "track": "Midnight"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of",
+      "track": "Medzi blokmi"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You",
+      "track": "No Witness"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "track": "Angel Child - Mustique Demo"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "blink-182",
+      "album": "California"
+    },
+    {
+      "artist": "Bon Jovi",
+      "album": "Bon Jovi Greatest Hits"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception"
+    },
+    {
+      "artist": "blink-182",
+      "album": "Enema Of The State"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Platinum Collection"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "The Hunting Party"
+    },
+    {
+      "artist": "Rybičky 48",
+      "album": "Tohle je Rock´n´roll, vy buzny!"
+    },
+    {
+      "artist": "Linkin Park",
+      "album": "One More Light"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Smoke + Mirrors"
+    },
+    {
+      "artist": "Oasis",
+      "album": "Be Here Now"
+    },
+    {
+      "artist": "Adele",
+      "album": "19"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Suma Sumarum 2013 remastered"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Paris"
+    },
+    {
+      "artist": "Suvereno",
+      "album": "Alchymista"
+    },
+    {
+      "artist": "Rytmus",
+      "album": "Bengoro"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "Rockfield"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Torches"
+    },
+    {
+      "artist": "Stromae",
+      "album": "racine carrée"
+    },
+    {
+      "artist": "Logic",
+      "album": "Everybody"
+    },
+    {
+      "artist": "OneRepublic",
+      "album": "Oh My My"
+    },
+    {
+      "artist": "Foster The People",
+      "album": "Supermodel"
+    },
+    {
+      "artist": "DIVOKEJ BILL",
+      "album": "Tsunami"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate"
+    },
+    {
+      "artist": "Adele",
+      "album": "21"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "X&Y"
+    },
+    {
+      "artist": "Michal Tučný",
+      "album": "Poslední Kovboj"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Stadium Arcadium"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process"
+    },
+    {
+      "artist": "Zaz",
+      "album": "Recto Verso (Collector edition)"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Basketball 2K16: Music Inspired from the Game"
+    },
+    {
+      "artist": "No Name",
+      "album": "The Best Of"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "album": "Blurryface"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "album": "As You Were"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "By the Way"
+    },
+    {
+      "artist": "Tři Sestry",
+      "album": "Fernet Underground VIP Collection"
+    },
+    {
+      "artist": "Kabát",
+      "album": "Po certech velkej koncert"
+    },
+    {
+      "artist": "Eminem",
+      "album": "Music To Be Murdered By"
+    },
+    {
+      "artist": "LP",
+      "album": "Lost On You"
+    },
+    {
+      "artist": "Son Lux",
+      "album": "Brighter Wounds"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "A Head Full of Dreams"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Ghost Stories"
+    },
+    {
+      "artist": "Bill Conti",
+      "album": "Rocky"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier"
+    },
+    {
+      "artist": "Chinaski",
+      "album": "20 let v siti"
+    },
+    {
+      "artist": "Wohnout",
+      "album": "Laskonky a kremrole"
+    },
+    {
+      "artist": "Majk Spirit",
+      "album": "Novy clovek"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "My Beautiful Dark Twisted Fantasy"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton"
+    },
+    {
+      "artist": "Johny Machette",
+      "album": "Snílek"
+    },
+    {
+      "artist": "Mandrage",
+      "album": "Po půlnoci"
+    }
+  ],
+  "shows": [
+    {
+      "name": "CZPodcast",
+      "publisher": "Filemon & Dagi"
+    },
+    {
+      "name": "Deep Talks [CZE]",
+      "publisher": "Petr Ludwig"
+    },
+    {
+      "name": "Forbes Česko",
+      "publisher": "Forbes Česko"
+    },
+    {
+      "name": "Lex Fridman Podcast",
+      "publisher": "Lex Fridman"
+    },
+    {
+      "name": "The Joe Rogan Experience",
+      "publisher": "Joe Rogan"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "other": [
+  ]
+}
